@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MassTransit.Repro": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49348;http://localhost:49349"
+    }
+  }
+}
